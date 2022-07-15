@@ -1,0 +1,64 @@
+.banner-principal {
+    background-image: url(../img/banner.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: 800;
+}
+
+
+.bg-blue {
+    background-color: #008af5;
+}
+
+.banner-content {
+    color: white
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: 700;
+    padding-top: 150px;
+}
+
+.header {
+    padding: 30px;
+    text-align: center;
+}
+
+.first-text {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.first-text-content {
+    margin-top: 100px;
+}
+
+
+.first-text h2 {
+    font-weight: 600;
+}
+
+.our-process h2 {
+    font-weight: 700;
+    margin-top: 50px;
+
+
+}
+
+
+/* Empresa */
+
+.our-history {
+    margin-top: 50px;
+}
